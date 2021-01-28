@@ -6,7 +6,7 @@ console.log('hello')
 const names = 'maria';
 const lastaname = 'martinez';
 
-const fullName = 'hola' + ' ' + names + lastaname;
+const fullName = 'hola'+ names + lastaname;
 
 console.log(fullName);
 
