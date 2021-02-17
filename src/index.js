@@ -1,8 +1,6 @@
 
-/* Destructuracion de Objetos */
+/* Destructuracion de Arreglos */
 console.log('hello');
-
-
 
 
 
