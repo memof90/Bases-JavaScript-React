@@ -1,4 +1,6 @@
-/* Asyn Await */
+/* Operador ternario */
+
+
 
 
 
